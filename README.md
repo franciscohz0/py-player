@@ -7,14 +7,13 @@ Un reproductor de música simple para escritorio hecho en Python
 - Soporte para mp3, m4a, flac
 - Lectura de metadatos
 - Portadas embebidas
-- Tema oscuro
 
 ## Captura
 <p align="center">
   <img src="screenshots/main-window.png" width="400">
 </p>
 
-## Tecnologías
+## Tecnologías usadas
 
 - Python
 - PySide6 (Qt Binding)
@@ -27,7 +26,7 @@ Instala las dependencias con:
 pip install -r requeriments.txt
 ```
 
-## Ejecutar
+## Uso 
 
 ```bash
 python music_player.py
