@@ -4,10 +4,8 @@ Un reproductor de música simple para escritorio hecho en Python
 
 ## Características
 
-- Soporte para mp3, m4a, flac
 - Lectura de metadatos
-- Portadas embebidas
-- Tema oscuro
+- Portadas embebidas (mp3, flac, m4a)
 
 ## Captura
 <p align="center">
