@@ -1,0 +1,1369 @@
+qt.multimedia.ffmpeg: Using Qt multimedia with FFmpeg version 7.1.3 LGPL version 2.1 or later
+Input #0, flac, from '/home/adrian/Música/temazos/ The Living Tombstone - Basics in Behavior (feat. Or3o).flac':
+  Metadata:
+    ALBUM           : Basics in Behavior (Blue Version)
+    album_artist    : The Living Tombstone
+    ALBUM_RELEASE_DATE: 2018-09-13
+    ARTIST          : The Living Tombstone; Or3o
+    BPM             : 105
+    COPYRIGHT       : The Living Tombstone
+    DATE            : 2018
+    disc            : 1
+    DISCTOTAL       : 1
+    ISRC            : QZDA61801636
+    ITUNESADVISORY  : 0
+    REPLAYGAIN_ALBUM_GAIN: -7.7 dB
+    REPLAYGAIN_ALBUM_PEAK: 1
+    REPLAYGAIN_TRACK_GAIN: -7.7 dB
+    REPLAYGAIN_TRACK_PEAK: 1
+    TIDAL_ALBUM_ID  : 91495586
+    TIDAL_ALBUM_URL : http://www.tidal.com/album/91495586
+    TIDAL_DATA      : { 
+                    :   "id": 91495587, 
+                    :   "title": "Basics in Behavior (feat. Or3o) (Blue Version)", 
+                    :   "duration": 237, 
+                    :   "replayGain": { 
+                    :     "trackReplayGain": -7.7, 
+                    :     "trackPeakAmplitude": 1, 
+                    :     "albumReplayGain": -7.7, 
+                    :     "albumPeakAmplitude": 1 
+                    :   }, 
+                    :   "peak": 0.943694, 
+                    :   "allowStreaming": true, 
+                    :   "streamReady": true, 
+                    :   "payToStream": false, 
+                    :   "adSupportedStreamReady": true, 
+                    :   "djReady": true, 
+                    :   "stemReady": false, 
+                    :   "streamStartDate": "2018-07-05T00:00:00.000+0000", 
+                    :   "premiumStreamingOnly": false, 
+                    :   "trackNumber": 1, 
+                    :   "volumeNumber": 1, 
+                    :   "version": null, 
+                    :   "popularity": 64, 
+                    :   "copyright": "The Living Tombstone", 
+                    :   "bpm": 105, 
+                    :   "key": "F", 
+                    :   "keyScale": "MINOR", 
+                    :   "url": "http://www.tidal.com/track/91495587", 
+                    :   "isrc": "QZDA61801636", 
+                    :   "editable": false, 
+                    :   "explicit": false, 
+                    :   "audioQuality": "LOSSLESS", 
+                    :   "audioModes": [ 
+                    :     "STEREO" 
+                    :   ], 
+                    :   "mediaMetadata": { 
+                    :     "tags": [ 
+                    :       "LOSSLESS" 
+                    :     ] 
+                    :   }, 
+                    :   "upload": false, 
+                    :   "accessType": "PUBLIC", 
+                    :   "spotlighted": false, 
+                    :   "ai": false, 
+                    :   "artist": { 
+                    :     "id": 5916965, 
+                    :     "name": "The Living Tombstone", 
+                    :     "handle": null, 
+                    :     "type": "MAIN", 
+                    :     "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :   }, 
+                    :   "artists": [ 
+                    :     { 
+                    :       "id": 5916965, 
+                    :       "name": "The Living Tombstone", 
+                    :       "handle": null, 
+                    :       "type": "MAIN", 
+                    :       "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :     } 
+                    :   ], 
+                    :   "album": { 
+                    :     "id": 91495586, 
+                    :     "title": "Basics in Behavior (Blue Version)", 
+                    :     "duration": 474, 
+                    :     "streamReady": true, 
+                    :     "payToStream": false, 
+                    :     "adSupportedStreamReady": true, 
+                    :     "djReady": true, 
+                    :     "stemReady": false, 
+                    :     "streamStartDate": "2018-07-05T00:00:00.000+0000", 
+                    :     "allowStreaming": true, 
+                    :     "premiumStreamingOnly": false, 
+                    :     "numberOfTracks": 2, 
+                    :     "numberOfVideos": 0, 
+                    :     "numberOfVolumes": 1, 
+                    :     "releaseDate": "2018-09-13", 
+                    :     "copyright": "The Living Tombstone", 
+                    :     "type": "SINGLE", 
+                    :     "version": null, 
+                    :     "url": "http://www.tidal.com/album/91495586", 
+                    :     "cover": "6b4823bc-ab18-45b1-a4e4-8742499f0d6f", 
+                    :     "vibrantColor": "#a1d3f5", 
+                    :     "videoCover": null, 
+                    :     "explicit": false, 
+                    :     "upc": "840091565428", 
+                    :     "popularity": 42, 
+                    :     "audioQuality": "LOSSLESS", 
+                    :     "audioModes": [ 
+                    :       "STEREO" 
+                    :     ], 
+                    :     "mediaMetadata": { 
+                    :       "tags": [ 
+                    :         "LOSSLESS" 
+                    :       ] 
+                    :     }, 
+                    :     "upload": false, 
+                    :     "ai": false, 
+                    :     "artist": { 
+                    :       "id": 5916965, 
+                    :       "name": "The Living Tombstone", 
+                    :       "handle": null, 
+                    :       "type": "MAIN", 
+                    :       "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :     }, 
+                    :     "artists": [ 
+                    :       { 
+                    :         "id": 5916965, 
+                    :         "name": "The Living Tombstone", 
+                    :         "handle": null, 
+                    :         "type": "MAIN", 
+                    :         "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :       } 
+                    :     ], 
+                    :     "items": [ 
+                    :       { 
+                    :         "item": { 
+                    :           "id": 91495587, 
+                    :           "title": "Basics in Behavior (feat. Or3o) (Blue Version)", 
+                    :           "duration": 237, 
+                    :           "replayGain": -11.73, 
+                    :           "peak": 0.943694, 
+                    :           "allowStreaming": true, 
+                    :           "streamReady": true, 
+                    :           "payToStream": false, 
+                    :           "adSupportedStreamReady": true, 
+                    :           "djReady": true, 
+                    :           "stemReady": false, 
+                    :           "streamStartDate": "2018-07-05T00:00:00.000+0000", 
+                    :           "premiumStreamingOnly": false, 
+                    :           "trackNumber": 1, 
+                    :           "volumeNumber": 1, 
+                    :           "version": null, 
+                    :           "popularity": 64, 
+                    :           "copyright": "The Living Tombstone", 
+                    :           "bpm": 105, 
+                    :           "key": "F", 
+                    :           "keyScale": "MINOR", 
+                    :           "url": "http://www.tidal.com/track/91495587", 
+                    :           "isrc": "QZDA61801636", 
+                    :           "editable": false, 
+                    :           "explicit": false, 
+                    :           "audioQuality": "LOSSLESS", 
+                    :           "audioModes": [ 
+                    :             "STEREO" 
+                    :           ], 
+                    :           "mediaMetadata": { 
+                    :             "tags": [ 
+                    :               "LOSSLESS" 
+                    :             ] 
+                    :           }, 
+                    :           "upload": false, 
+                    :           "accessType": "PUBLIC", 
+                    :           "spotlighted": false, 
+                    :           "ai": false, 
+                    :           "artist": { 
+                    :             "id": 5916965, 
+                    :             "name": "The Living Tombstone", 
+                    :             "handle": null, 
+                    :             "type": "MAIN", 
+                    :             "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :           }, 
+                    :           "artists": [ 
+                    :             { 
+                    :               "id": 5916965, 
+                    :               "name": "The Living Tombstone", 
+                    :               "handle": null, 
+                    :               "type": "MAIN", 
+                    :               "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :             } 
+                    :           ], 
+                    :           "album": { 
+                    :             "id": 91495586, 
+                    :             "title": "Basics in Behavior (Blue Version)", 
+                    :             "cover": "6b4823bc-ab18-45b1-a4e4-8742499f0d6f", 
+                    :             "vibrantColor": "#a1d3f5", 
+                    :             "videoCover": null 
+                    :           }, 
+                    :           "mixes": { 
+                    :             "TRACK_MIX": "001096be566f17409199285611f2c1" 
+                    :           } 
+                    :         }, 
+                    :         "type": "track" 
+                    :       }, 
+                    :       { 
+                    :         "item": { 
+                    :           "id": 91495588, 
+                    :           "title": "Basics in Behavior (feat. Or3o Instrumental)  [Instrumental] (Blue Version)", 
+                    :           "duration": 237, 
+                    :           "replayGain": -11.73, 
+                    :           "peak": 0.943725, 
+                    :           "allowStreaming": true, 
+                    :           "streamReady": true, 
+                    :           "payToStream": false, 
+                    :           "adSupportedStreamReady": true, 
+                    :           "djReady": true, 
+                    :           "stemReady": false, 
+                    :           "streamStartDate": "2018-07-05T00:00:00.000+0000", 
+                    :           "premiumStreamingOnly": false, 
+                    :           "trackNumber": 2, 
+                    :           "volumeNumber": 1, 
+                    :           "version": null, 
+                    :           "popularity": 24, 
+                    :           "copyright": "The Living Tombstone", 
+                    :           "bpm": 105, 
+                    :           "key": "C", 
+                    :           "keyScale": "MINOR", 
+                    :           "url": "http://www.tidal.com/track/91495588", 
+                    :           "isrc": "QZDA61801637", 
+                    :           "editable": false, 
+                    :           "explicit": false, 
+                    :           "audioQuality": "LOSSLESS", 
+                    :           "audioModes": [ 
+                    :             "STEREO" 
+                    :           ], 
+                    :           "mediaMetadata": { 
+                    :             "tags": [ 
+                    :               "LOSSLESS" 
+                    :             ] 
+                    :           }, 
+                    :           "upload": false, 
+                    :           "accessType": "PUBLIC", 
+                    :           "spotlighted": false, 
+                    :           "ai": false, 
+                    :           "artist": { 
+                    :             "id": 5916965, 
+                    :             "name": "The Living Tombstone", 
+                    :             "handle": null, 
+                    :             "type": "MAIN", 
+                    :             "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :           }, 
+                    :           "artists": [ 
+                    :             { 
+                    :               "id": 5916965, 
+                    :               "name": "The Living Tombstone", 
+                    :               "handle": null, 
+                    :               "type": "MAIN", 
+                    :               "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :             } 
+                    :           ], 
+                    :           "album": { 
+                    :             "id": 91495586, 
+                    :             "title": "Basics in Behavior (Blue Version)", 
+                    :             "cover": "6b4823bc-ab18-45b1-a4e4-8742499f0d6f", 
+                    :             "vibrantColor": "#a1d3f5", 
+                    :             "videoCover": null 
+                    :           }, 
+                    :           "mixes": { 
+                    :             "TRACK_MIX": "0011df4dd2ed69141b501a5a485a10" 
+                    :           } 
+                    :         }, 
+                    :         "type": "track" 
+                    :       } 
+                    :     ], 
+                    :     "totalDiscs": 1, 
+                    :     "numberOfTracksOnDisc": 2 
+                    :   }, 
+                    :   "mixes": { 
+                    :     "TRACK_MIX": "001096be566f17409199285611f2c1" 
+                    :   }, 
+                    :   "isUnavailable": false 
+                    : }
+    TIDAL_TRACK_ID  : 91495587
+    TIDAL_TRACK_URL : http://www.tidal.com/track/91495587
+    TITLE           : Basics in Behavior (feat. Or3o) (Blue Version)
+    track           : 1
+    TRACKTOTAL      : 2
+    UPC             : 840091565428
+  Duration: 00:03:57.76, start: 0.000000, bitrate: 1085 kb/s
+  Stream #0:0: Audio: flac, 44100 Hz, stereo, s16
+      Side data:
+        replaygain: track gain - -7.700000, track peak - 0.000023, album gain - -7.700000, album peak - 0.000023, 
+  Stream #0:1: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 1280x1280 [SAR 72:72 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        comment         : Cover (front)
+Input #0, mp3, from '/home/adrian/Música/temazos/cancion.mp3':
+  Duration: 00:04:16.65, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : LAME3.99r
+      Side data:
+        replaygain: track gain - -10.500000, track peak - unknown, album gain - unknown, album peak - unknown, 
+[mp3float @ 0x1d0bf7c0] Could not update timestamps for skipped samples.
+Input #0, mp3, from '/home/adrian/Música/temazos/ROSÉ & Bruno Mars - APT.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:02:53.42, start: 0.023021, bitrate: 130 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 130 kb/s
+      Metadata:
+        encoder         : Lavc60.31
+[mp3float @ 0x1d46e940] Could not update timestamps for skipped samples.
+Input #0, mp3, from '/home/adrian/Música/temazos/ROSÉ & Bruno Mars - APT. (Official Music Video) [ekr2nIex040].mp3':
+  Metadata:
+    genre           : Pop
+    title           : ROSÉ & Bruno Mars - APT. (Official Music Video)
+    date            : 2024
+    description     : ROSÉ & Bruno Mars - APT.
+                    : Download/stream: https://rosesarerosie.lnk.to/APTID
+                    : 
+                    : Order APT. single CD: https://rosesarerosie.lnk.to/APT-CDID
+                    : 
+                    : 'rosie' - the first studio album by ROSÉ - out now
+                    : download/stream: http://rosesarerosie.lnk.to/rosieID
+                    : 
+                    : ROSÉ store exclusive 'rosie' vinyl, cd's, and more available now: http://rosesarerosie.lnk.to/storeID
+                    : 
+                    : Follow ROSÉ:
+                    : https://www.instagram.com/roses_are_rosie
+                    : https://www.tiktok.com/@roses_are_rosie 
+                    : https://x.com/numberonehq
+                    : https://www.facebook.com/rosesarerosieofficial
+                    : https://www.rosesarerosie.com/
+                    : 
+                    : Follow Bruno Mars:
+                    : https://www.instagram.com/brunomars
+                    : https://www.tiktok.com/@brunomars
+                    : https://twitter.com/brunomars
+                    : https://www.facebook.com/brunomars
+                    : https://www.brunomars.com/
+                    : 
+                    : Lyrics: 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : Kissy face, kissy face
+                    : Sent to your phone but,
+                    : I'm trying to kiss your lips for real
+                    : Red hearts, red hearts
+                    : That’s what I’m on yeah
+                    : Come give me something I can feel
+                    : Oh oh oh
+                    : Don't you want me like I want you, baby 
+                    : Don't you need me like I need you now 
+                    : Sleep tomorrow but tonight go crazy
+                    : All you gotta do is just meet me at the
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트
+                    : 아파트 아파트
+                    : Uh, uh huh uh huh
+                    : 
+                    : It’s whatever it’s whatever it’s whatever you like
+                    : Turn this 아파트 into a club
+                    : I’m talking drink, dance, smoke, freak, party all night 
+                    : 건배 건배 girl what’s up
+                    : Oh oh oh
+                    : Don't you want me like I want you, baby
+                    : Don't you need me like I need you now
+                    : Sleep tomorrow but tonight go crazy
+                    : All you gotta do is just meet me at the
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : Hey so now you know the game Are you ready?
+                    : Cause I’m comin to get ya
+                    : Get ya, get ya
+                    : Hold on, hold on
+                    : I’m on my way
+                    : Yeah yeah yeah yeah yeah
+                    : 
+                    : I’m on my way
+                    : Hold on, hold on
+                    : I’m on my way
+                    : Yeah yeah yeah yeah yeah I’m on my way
+                    : Don't you want me like I want you, baby 
+                    : Don't you need me like I need you now 
+                    : Sleep tomorrow but tonight go crazy 
+                    : All you gotta do is just meet me at the
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Just meet me at the (Uh huh uh huh)
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Just meet me at the (Uh huh uh huh) 
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Just meet me at the (Uh huh uh huh)
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트
+                    : 
+                    : 아파트 아파트
+                    : Uh, uh huh uh huh
+                    : 
+                    : #ROSÉ_BRUNO_APT #APT #ROSÉ #BrunoMars #MusicVideo
+    synopsis        : ROSÉ & Bruno Mars - APT.
+                    : Download/stream: https://rosesarerosie.lnk.to/APTID
+                    : 
+                    : Order APT. single CD: https://rosesarerosie.lnk.to/APT-CDID
+                    : 
+                    : 'rosie' - the first studio album by ROSÉ - out now
+                    : download/stream: http://rosesarerosie.lnk.to/rosieID
+                    : 
+                    : ROSÉ store exclusive 'rosie' vinyl, cd's, and more available now: http://rosesarerosie.lnk.to/storeID
+                    : 
+                    : Follow ROSÉ:
+                    : https://www.instagram.com/roses_are_rosie
+                    : https://www.tiktok.com/@roses_are_rosie 
+                    : https://x.com/numberonehq
+                    : https://www.facebook.com/rosesarerosieofficial
+                    : https://www.rosesarerosie.com/
+                    : 
+                    : Follow Bruno Mars:
+                    : https://www.instagram.com/brunomars
+                    : https://www.tiktok.com/@brunomars
+                    : https://twitter.com/brunomars
+                    : https://www.facebook.com/brunomars
+                    : https://www.brunomars.com/
+                    : 
+                    : Lyrics: 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : Kissy face, kissy face
+                    : Sent to your phone but,
+                    : I'm trying to kiss your lips for real
+                    : Red hearts, red hearts
+                    : That’s what I’m on yeah
+                    : Come give me something I can feel
+                    : Oh oh oh
+                    : Don't you want me like I want you, baby 
+                    : Don't you need me like I need you now 
+                    : Sleep tomorrow but tonight go crazy
+                    : All you gotta do is just meet me at the
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트
+                    : 아파트 아파트
+                    : Uh, uh huh uh huh
+                    : 
+                    : It’s whatever it’s whatever it’s whatever you like
+                    : Turn this 아파트 into a club
+                    : I’m talking drink, dance, smoke, freak, party all night 
+                    : 건배 건배 girl what’s up
+                    : Oh oh oh
+                    : Don't you want me like I want you, baby
+                    : Don't you need me like I need you now
+                    : Sleep tomorrow but tonight go crazy
+                    : All you gotta do is just meet me at the
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Uh, uh huh uh huh
+                    : 
+                    : Hey so now you know the game Are you ready?
+                    : Cause I’m comin to get ya
+                    : Get ya, get ya
+                    : Hold on, hold on
+                    : I’m on my way
+                    : Yeah yeah yeah yeah yeah
+                    : 
+                    : I’m on my way
+                    : Hold on, hold on
+                    : I’m on my way
+                    : Yeah yeah yeah yeah yeah I’m on my way
+                    : Don't you want me like I want you, baby 
+                    : Don't you need me like I need you now 
+                    : Sleep tomorrow but tonight go crazy 
+                    : All you gotta do is just meet me at the
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Just meet me at the (Uh huh uh huh)
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Just meet me at the (Uh huh uh huh) 
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : 아파트 아파트 
+                    : Just meet me at the (Uh huh uh huh)
+                    : 
+                    : 아파트 아파트 
+                    : 아파트 아파트
+                    : 
+                    : 아파트 아파트
+                    : Uh, uh huh uh huh
+                    : 
+                    : #ROSÉ_BRUNO_APT #APT #ROSÉ #BrunoMars #MusicVideo
+    purl            : https://www.youtube.com/watch?v=ekr2nIex040
+    comment         : https://www.youtube.com/watch?v=ekr2nIex040
+    artist          : ROSÉ, Bruno Mars
+    encoder         : Lavf60.16.100
+    track           : 1
+  Duration: 00:02:53.42, start: 0.023021, bitrate: 192 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 130 kb/s
+      Metadata:
+        encoder         : Lavc60.31
+  Stream #0:1: Video: png, rgb24(pc, gbr/unknown/unknown), 1280x720, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        title           : Album cover
+        comment         : Cover (front)
+[mp3float @ 0x1cf84900] Could not update timestamps for skipped samples.
+Input #0, mp3, from '/home/adrian/Música/temazos/Cartoon, Jéja - On & On (feat. Daniel Levi) NCS - Copyright Free Music .mp3':
+  Metadata:
+    genre           : Music
+    title           : Cartoon, Jéja - On & On (feat. Daniel Levi) | Electronic Pop | NCS - Copyright Free Music
+    encoder         : Lavf60.16.100
+    description     : NCS/NoCopyrightSounds: Empowering Creators through No Copyright & Royalty Free Music
+                    : Follow on Spotify: https://ncs.lnk.to/ncsreleasesid
+                    : 
+                    : Free Download: http://ncs.io/OnandOn
+                    : Stream: http://ncs.lnk.to/OnandOnID
+                    : 
+                    : NCS – The Best of Electronic
+                    : https://www.youtube.com/playlist?list=PLRBp0Fe2GpgnZOm5rCopMAOYhZCPoUyO5
+                    : 
+                    : NCS - Best of Cartoon
+                    : https://www.youtube.com/playlist?list=PLRBp0Fe2GpglHuIno4vFaVgiqhPikhA5r
+                    : 
+                    : [NCS]
+                    : • https://soundcloud.com/nocopyrightsounds
+                    : • https://instagram.com/nocopyrightsounds
+                    : • https://facebook.com/nocopyrightsounds
+                    : • https://twitter.com/ncsounds
+                    : • https://www.twitch.tv/nocopyrightsounds
+                    : 
+                    : [Cartoon]
+                    : SoundCloud https://soundcloud.com/cartoonbaboon
+                    : Facebook https://www.facebook.com/cartoondband
+                    : Instagram https://www.instagram.com/cartoonbaboon
+                    : 
+                    : [Jéja]
+                    : • https://facebook.com/jejaxi
+                    : • https://instagram.com/jejaxi
+                    : • https://soundcloud.com/jejaxi
+                    : 
+                    : [Daniel Levi (vocalist)]
+                    : Youtube https://www.youtube.com/user/danielleviband/
+                    : Facebook http://facebook.com/daniellevimusic
+                    : Instagram https://www.instagram.com/danielleviviinalass/
+                    : 
+                    : Lyrics: Cartoon - On & On (feat. Daniel Levi)
+                    : 
+                    : [Verse 1]
+                    : Hold me close 'til I get up
+                    : Time is barely on our side
+                    : I don't wanna waste what's left
+                    : The storms we chase are leadin' us
+                    : And love is all we'll ever trust, yeah
+                    : No, I don't wanna waste what's left
+                    : 
+                    : [Chorus]
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : 'Til my shadow turns to sun-rays
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : And on and on we'll go
+                    : On we'll go
+                    : 
+                    : [Verse 2]
+                    : Finding life along the way
+                    : Melodies we haven't played
+                    : No, I don't want no rest
+                    : Echoin' around these walls
+                    : Fighting to create a song (yeah)
+                    : I don't wanna miss a beat
+                    : 
+                    : [Chorus]
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : 'Til my shadow turns to sun-rays
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : And on and on we'll go
+                    : 
+                    : [Bridge]
+                    : And we'll grow in number
+                    : Fuelled by thunder, see the horizon
+                    : Turn us to thousands
+                    : And we'll grow in number
+                    : Fuelled by thunder, see the horizon
+                    : Turn us to thousands
+                    : 
+                    : [Chorus]
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : 'Til my shadow turns to sunrays
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : And on and on we'll go
+                    : 
+                    : 
+                    : Join the Discord → https://ncs.lnk.to/joindiscordid
+                    : 
+                    : Free Download NCS music here → https://ncs.io
+                    : 
+                    : NCS Lyrics → Learn the lyrics over at: https://ncs.lnk.to/ncslyricsid
+                    : 
+                    : - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    : 
+                    : When you are using this track, please add this in your description:
+                    : 
+                    : Track: Cartoon, Jéja - On & On (feat. Daniel Levi) [NCS Release]
+                    : Music provided by NoCopyrightSounds.
+                    : Watch: http://ncs.lnk.to/OnandOnAT/youtube
+                    : Free Download / Stream: http://ncs.io/OnandOn
+                    : 
+                    : - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    : 
+                    : ©️ Check out our Usage Policy on how to use NCS music in your videos: http://ncs.io/UsagePolicy
+                    : 
+                    : To request a commercial license visit: http://ncs.io/Commercial
+                    : NCS: Music Without Limitations.
+                    : 
+                    : #nocopyrightsounds #copyrightfree #music #song #edm #dancemusic #royaltyfreemusic #copyrightfreemusic #nocopyrightmusic #ncs #ncsmusic #electronicmusic #cartoon
+    synopsis        : NCS/NoCopyrightSounds: Empowering Creators through No Copyright & Royalty Free Music
+                    : Follow on Spotify: https://ncs.lnk.to/ncsreleasesid
+                    : 
+                    : Free Download: http://ncs.io/OnandOn
+                    : Stream: http://ncs.lnk.to/OnandOnID
+                    : 
+                    : NCS – The Best of Electronic
+                    : https://www.youtube.com/playlist?list=PLRBp0Fe2GpgnZOm5rCopMAOYhZCPoUyO5
+                    : 
+                    : NCS - Best of Cartoon
+                    : https://www.youtube.com/playlist?list=PLRBp0Fe2GpglHuIno4vFaVgiqhPikhA5r
+                    : 
+                    : [NCS]
+                    : • https://soundcloud.com/nocopyrightsounds
+                    : • https://instagram.com/nocopyrightsounds
+                    : • https://facebook.com/nocopyrightsounds
+                    : • https://twitter.com/ncsounds
+                    : • https://www.twitch.tv/nocopyrightsounds
+                    : 
+                    : [Cartoon]
+                    : SoundCloud https://soundcloud.com/cartoonbaboon
+                    : Facebook https://www.facebook.com/cartoondband
+                    : Instagram https://www.instagram.com/cartoonbaboon
+                    : 
+                    : [Jéja]
+                    : • https://facebook.com/jejaxi
+                    : • https://instagram.com/jejaxi
+                    : • https://soundcloud.com/jejaxi
+                    : 
+                    : [Daniel Levi (vocalist)]
+                    : Youtube https://www.youtube.com/user/danielleviband/
+                    : Facebook http://facebook.com/daniellevimusic
+                    : Instagram https://www.instagram.com/danielleviviinalass/
+                    : 
+                    : Lyrics: Cartoon - On & On (feat. Daniel Levi)
+                    : 
+                    : [Verse 1]
+                    : Hold me close 'til I get up
+                    : Time is barely on our side
+                    : I don't wanna waste what's left
+                    : The storms we chase are leadin' us
+                    : And love is all we'll ever trust, yeah
+                    : No, I don't wanna waste what's left
+                    : 
+                    : [Chorus]
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : 'Til my shadow turns to sun-rays
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : And on and on we'll go
+                    : On we'll go
+                    : 
+                    : [Verse 2]
+                    : Finding life along the way
+                    : Melodies we haven't played
+                    : No, I don't want no rest
+                    : Echoin' around these walls
+                    : Fighting to create a song (yeah)
+                    : I don't wanna miss a beat
+                    : 
+                    : [Chorus]
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : 'Til my shadow turns to sun-rays
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : And on and on we'll go
+                    : 
+                    : [Bridge]
+                    : And we'll grow in number
+                    : Fuelled by thunder, see the horizon
+                    : Turn us to thousands
+                    : And we'll grow in number
+                    : Fuelled by thunder, see the horizon
+                    : Turn us to thousands
+                    : 
+                    : [Chorus]
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : 'Til my shadow turns to sunrays
+                    : And on and on we'll go
+                    : Through the wastelands, through the highways
+                    : And on and on we'll go
+                    : 
+                    : 
+                    : Join the Discord → https://ncs.lnk.to/joindiscordid
+                    : 
+                    : Free Download NCS music here → https://ncs.io
+                    : 
+                    : NCS Lyrics → Learn the lyrics over at: https://ncs.lnk.to/ncslyricsid
+                    : 
+                    : - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    : 
+                    : When you are using this track, please add this in your description:
+                    : 
+                    : Track: Cartoon, Jéja - On & On (feat. Daniel Levi) [NCS Release]
+                    : Music provided by NoCopyrightSounds.
+                    : Watch: http://ncs.lnk.to/OnandOnAT/youtube
+                    : Free Download / Stream: http://ncs.io/OnandOn
+                    : 
+                    : - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    : 
+                    : ©️ Check out our Usage Policy on how to use NCS music in your videos: http://ncs.io/UsagePolicy
+                    : 
+                    : To request a commercial license visit: http://ncs.io/Commercial
+                    : NCS: Music Without Limitations.
+                    : 
+                    : #nocopyrightsounds #copyrightfree #music #song #edm #dancemusic #royaltyfreemusic #copyrightfreemusic #nocopyrightmusic #ncs #ncsmusic #electronicmusic #cartoon
+    purl            : https://www.youtube.com/watch?v=K4DyBUG242c
+    comment         : https://www.youtube.com/watch?v=K4DyBUG242c
+    artist          : NoCopyrightSounds
+    date            : 2015
+  Duration: 00:03:28.01, start: 0.023021, bitrate: 140 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 132 kb/s
+      Metadata:
+        encoder         : Lavc60.31
+  Stream #0:1: Video: png, rgb24(pc, gbr/unknown/unknown), 640x480, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        title           : Album cover
+        comment         : Cover (front)
+[mp3float @ 0x1d26afc0] Could not update timestamps for skipped samples.
+Input #0, flac, from '/home/adrian/Música/temazos/CKay - Love Nwantiti ⧸⧸ Sub Español & Lyrics.flac':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:02:26.40, start: 0.000000, bitrate: 1516 kb/s
+  Stream #0:0: Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+Input #0, flac, from '/home/adrian/Música/temazos/CKay - Love Nwantiti ⧸⧸ Sub Español & Lyrics [79JQzjCfQzE].flac':
+  Metadata:
+    genre           : Music
+    title           : CKay - Love Nwantiti // Sub Español & Lyrics
+    date            : 20211212
+    purl            : https://www.youtube.com/watch?v=79JQzjCfQzE
+    synopsis        : CKay - Love Nwantiti en sub español & lyrics ;3
+                    : 
+                    : ¿Quieres hacer conocer tu música, canal o Redes sociales?
+                    : Promociones al mejor precio y con los mejores resultados !!
+                    : 
+                    : Do you want to publicize your music, channel or social networks?
+                    : Promotions at the best price and with the best results !!
+                    : 
+                    : -Contacto: sadlyrics.business@gmail.com
+                    : 
+                    : -Instagram: https://bit.ly/3eBPayl​​​​​​​​​​
+                    : 
+                    : -Facebook: https://bit.ly/3taImvp​​​​​​​​​
+                    : 
+                    : Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute
+                    : 
+                    : 
+                    : Tags: (Ignorar)
+                    : love nwantiti, ckay love nwantiti, love nwantiti ckay, love nwantiti lyrics, ckay love nwantiti lyrics, ckay love nwantiti lyrics remix, kay love nwantiti letra, kay love nwantiti lyrics español, kay love nwantiti remix,ckay love nwantiti slowed, kay lov
+    comment         : https://www.youtube.com/watch?v=79JQzjCfQzE
+    artist          : Sad Lyrics
+    encoder         : Lavf60.16.100
+  Duration: 00:02:26.40, start: 0.000000, bitrate: 1533 kb/s
+  Stream #0:0: Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+  Stream #0:1: Video: png, rgb24(pc, gbr/unknown/unknown), 640x480, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        comment         : Cover (front)
+Input #0, mp3, from '/home/adrian/Música/temazos/Artemas - i like the way you kiss me - [lyrics] [slowed + reverb] Invincible War (Resubido) [aM0gNgbNKYY].mp3':
+  Metadata:
+    genre           : Music
+    title           : Artemas - i like the way you kiss me - [lyrics] [slowed + reverb] Invincible War (Resubido)
+    encoder         : Lavf60.16.100
+    description     : i like the way you kiss me
+                    : 
+                    : ---
+                    : 
+                    : #invincible 
+                    : #lyrics 
+                    : #edit 
+                    : 
+                    : ----
+                    : 
+                    : Video del que me inspiré: https://youtu.be/K7mmZq5Q8X0?si=9zF68thIZtqgaQMO
+                    : 
+                    : _________________________________________
+                    : 
+                    : Subscribe.
+                    : 
+                    : (Resubido)
+    synopsis        : i like the way you kiss me
+                    : 
+                    : ---
+                    : 
+                    : #invincible 
+                    : #lyrics 
+                    : #edit 
+                    : 
+                    : ----
+                    : 
+                    : Video del que me inspiré: https://youtu.be/K7mmZq5Q8X0?si=9zF68thIZtqgaQMO
+                    : 
+                    : _________________________________________
+                    : 
+                    : Subscribe.
+                    : 
+                    : (Resubido)
+    purl            : https://www.youtube.com/watch?v=aM0gNgbNKYY
+    comment         : https://www.youtube.com/watch?v=aM0gNgbNKYY
+    artist          : RoxNero - RN
+    date            : 2025
+  Duration: 00:03:32.30, start: 0.023021, bitrate: 139 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 121 kb/s
+      Metadata:
+        encoder         : Lavc60.31
+  Stream #0:1: Video: png, rgb24(pc, gbr/unknown/unknown), 1280x720, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        title           : Album cover
+        comment         : Cover (front)
+[mp3float @ 0x1d11b900] Could not update timestamps for skipped samples.
+Input #0, mp3, from '/home/adrian/Música/temazos/3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats] [_ITiwPMUzho].mp3':
+  Metadata:
+    genre           : Music
+    title           : 3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats]
+    encoder         : Lavf60.16.100
+    description     : → 3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats]
+                    : → feardog's lofi hip hop mix to study, sleep, relax or code to 
+                    : → lofi hip hop mix - beats to relax/study/sleep/code to 
+                    : 
+                    : 🎵 Tracklist 
+                    : 
+                    : [00:00] santpoort — lost ones (with P.R.)
+                    : [02:00] oatmello — passport w/ hm surf
+                    : [04:03] Purrple Cat — Opening The Window For Some Fresh Air
+                    : [06:03] Sweet Medicine 甘い薬 — sweet medicine & mindeliq - secret bay
+                    : [08:40] G Mills — Arbour x G Mills - Blur
+                    : [10:20] TABAL — Lost In The Game
+                    : [11:54] gabu. — late nights
+                    : [13:20] Sweet Medicine 甘い薬 — sleepy
+                    : [14:46] oatmello — dippin' dots w / goosetaf
+                    : [17:01] l ø w f u n k ☂ — overthinking
+                    : [18:24] Sebastian Kamae — Mr. Catchy
+                    : [20:37] Brenky. — Bordeira
+                    : [22:40] Brenky. — handwarmers
+                    : [24:44] Brenky. — Keep.up
+                    : [26:28] amies — goodnight (out on spotify)
+                    : [29:06] eaup — eaup & ENRA - Undone
+                    : [31:09] SamuW — Red / Moon
+                    : [35:19] Juan RIOS — Juan RIOS • Azahar
+                    : [37:44] slowheal — Abyssal
+                    : [40:02] Kcvee. ☁ — Serenity
+                    : [42:21] Kcvee. ☁ — Forest Green
+                    : [43:49] mvdb — sleepy
+                    : [45:21] Oui Lele — ｓｈｉｎｙ ｅｙｅｓ (free dl link in the description )
+                    : [48:00] eugenio izzi 🚬 — Step By Step
+                    : [50:26] spencer hunt — lux w/ no one's perfect
+                    : [52:26] idealism — SwuM x idealism - With U
+                    : [56:05] charlie toØ human — moonlight love
+                    : [59:31] けｍ SURF — Cloudsurfing [Clouds x HM Surf]
+                    : [01:01:18] ʙʟᴜɴᴛᴏɴᴇ — Reflections
+                    : [01:03:15] Önigirisu — Astronaut
+                    : [01:05:15] Önigirisu — I Used To Love
+                    : [01:07:17] Sweet Medicine 甘い薬 — green hope
+                    : [01:08:52] Önigirisu — Toi Et Moi
+                    : [01:11:28] ＫｚＺ — alone
+                    : [01:13:29] ＫｚＺ — reflection
+                    : [01:15:29] tapei — sometimes i wish i wasnt here
+                    : [01:18:48] Juan RIOS — Juan RIOS • déjà vu.
+                    : [01:20:58] DLJ — Explorers (w/ BIDØ)
+                    : [01:22:52] Kalaido — Moonlight and Rain
+                    : [01:26:55] Kurt Stewart — intuition
+                    : [01:29:04] whatevr. — blessed
+                    : [01:30:29] The Lo Fi Radio — DLJ - Deep Sleep (w/ TABAL)
+                    : [01:32:41] Kayou. — Kayou. - it was only an autumn tale
+                    : 
+                    : 🎶 Support Artists
+                    : 
+                    : santpoort → https://soundcloud.com/santpoortnoord
+                    : oatmello → https://soundcloud.com/oatmello
+                    : Purrple Cat → https://soundcloud.com/purrplecat
+                    : Sweet Medicine 甘い薬 → https://soundcloud.com/sweet-medicine
+                    : G Mills → https://soundcloud.com/g_mills
+                    : Arbour → https://soundcloud.com/arbour-eat-them
+                    : TABAL → https://soundcloud.com/tabalmusic
+                    : gabu. → https://soundcloud.com/gabubeats
+                    : Sweet Medicine 甘い薬 → https://soundcloud.com/sweet-medicine
+                    : l ø w f u n k ☂ → https://soundcloud.com/user-757776148
+                    : Sebastian Kamae → https://soundcloud.com/sebastiankamae
+                    : Brenky. → Bordeira
+                    : Brenky. → https://soundcloud.com/brenky86
+                    : amies → https://soundcloud.com/officialamies
+                    : eaup → https://soundcloud.com/itseaup
+                    : ENRA → https://soundcloud.com/nvrnvr
+                    : SamuW → https://soundcloud.com/samuw020
+                    : Juan RIOS → https://soundcloud.com/juan-rios-beats
+                    : slowheal → https://soundcloud.com/slowhealmusic
+                    : Kcvee. ☁ → https://soundcloud.com/kevin-kcvee
+                    : mvdb → https://soundcloud.com/mvdbmusic
+                    : Oui Lele → https://soundcloud.com/ouilele
+                    : eugenio izzi 🚬 → https://soundcloud.com/eugenio-izzi
+                    : spencer hunt → https://soundcloud.com/wowspencerhunt
+                    : idealism → https://soundcloud.com/idealismus
+                    : SwuM → https://soundcloud.com/swumbeats
+                    : charlie toØ human → https://soundcloud.com/charlietoohuman
+                    : けｍ SURF → https://soundcloud.com/hmsurf
+                    : ʙʟᴜɴᴛᴏɴᴇ → https://soundcloud.com/bluntone
+                    : Önigirisu → https://soundcloud.com/onigirisu
+                    : ＫｚＺ → https://soundcloud.com/prodkzz
+                    : tapei → https://soundcloud.com/tapei
+                    : Juan RIOS → https://soundcloud.com/juan-rios-beats
+                    : DLJ → https://soundcloud.com/dljbeats
+                    : Kalaido → https://soundcloud.com/kalaidobeats
+                    : Kurt Stewart → https://soundcloud.com/kurtstewartmusic
+                    : whatevr. → https://soundcloud.com/whatevrbeats
+                    : Kayou. → https://soundcloud.com/iamkayouofficial
+                    : 
+                    : 🎨 Artwork by mienar
+                    :  → https://www.instagram.com/_mienar/
+    synopsis        : → 3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats]
+                    : → feardog's lofi hip hop mix to study, sleep, relax or code to 
+                    : → lofi hip hop mix - beats to relax/study/sleep/code to 
+                    : 
+                    : 🎵 Tracklist 
+                    : 
+                    : [00:00] santpoort — lost ones (with P.R.)
+                    : [02:00] oatmello — passport w/ hm surf
+                    : [04:03] Purrple Cat — Opening The Window For Some Fresh Air
+                    : [06:03] Sweet Medicine 甘い薬 — sweet medicine & mindeliq - secret bay
+                    : [08:40] G Mills — Arbour x G Mills - Blur
+                    : [10:20] TABAL — Lost In The Game
+                    : [11:54] gabu. — late nights
+                    : [13:20] Sweet Medicine 甘い薬 — sleepy
+                    : [14:46] oatmello — dippin' dots w / goosetaf
+                    : [17:01] l ø w f u n k ☂ — overthinking
+                    : [18:24] Sebastian Kamae — Mr. Catchy
+                    : [20:37] Brenky. — Bordeira
+                    : [22:40] Brenky. — handwarmers
+                    : [24:44] Brenky. — Keep.up
+                    : [26:28] amies — goodnight (out on spotify)
+                    : [29:06] eaup — eaup & ENRA - Undone
+                    : [31:09] SamuW — Red / Moon
+                    : [35:19] Juan RIOS — Juan RIOS • Azahar
+                    : [37:44] slowheal — Abyssal
+                    : [40:02] Kcvee. ☁ — Serenity
+                    : [42:21] Kcvee. ☁ — Forest Green
+                    : [43:49] mvdb — sleepy
+                    : [45:21] Oui Lele — ｓｈｉｎｙ ｅｙｅｓ (free dl link in the description )
+                    : [48:00] eugenio izzi 🚬 — Step By Step
+                    : [50:26] spencer hunt — lux w/ no one's perfect
+                    : [52:26] idealism — SwuM x idealism - With U
+                    : [56:05] charlie toØ human — moonlight love
+                    : [59:31] けｍ SURF — Cloudsurfing [Clouds x HM Surf]
+                    : [01:01:18] ʙʟᴜɴᴛᴏɴᴇ — Reflections
+                    : [01:03:15] Önigirisu — Astronaut
+                    : [01:05:15] Önigirisu — I Used To Love
+                    : [01:07:17] Sweet Medicine 甘い薬 — green hope
+                    : [01:08:52] Önigirisu — Toi Et Moi
+                    : [01:11:28] ＫｚＺ — alone
+                    : [01:13:29] ＫｚＺ — reflection
+                    : [01:15:29] tapei — sometimes i wish i wasnt here
+                    : [01:18:48] Juan RIOS — Juan RIOS • déjà vu.
+                    : [01:20:58] DLJ — Explorers (w/ BIDØ)
+                    : [01:22:52] Kalaido — Moonlight and Rain
+                    : [01:26:55] Kurt Stewart — intuition
+                    : [01:29:04] whatevr. — blessed
+                    : [01:30:29] The Lo Fi Radio — DLJ - Deep Sleep (w/ TABAL)
+                    : [01:32:41] Kayou. — Kayou. - it was only an autumn tale
+                    : 
+                    : 🎶 Support Artists
+                    : 
+                    : santpoort → https://soundcloud.com/santpoortnoord
+                    : oatmello → https://soundcloud.com/oatmello
+                    : Purrple Cat → https://soundcloud.com/purrplecat
+                    : Sweet Medicine 甘い薬 → https://soundcloud.com/sweet-medicine
+                    : G Mills → https://soundcloud.com/g_mills
+                    : Arbour → https://soundcloud.com/arbour-eat-them
+                    : TABAL → https://soundcloud.com/tabalmusic
+                    : gabu. → https://soundcloud.com/gabubeats
+                    : Sweet Medicine 甘い薬 → https://soundcloud.com/sweet-medicine
+                    : l ø w f u n k ☂ → https://soundcloud.com/user-757776148
+                    : Sebastian Kamae → https://soundcloud.com/sebastiankamae
+                    : Brenky. → Bordeira
+                    : Brenky. → https://soundcloud.com/brenky86
+                    : amies → https://soundcloud.com/officialamies
+                    : eaup → https://soundcloud.com/itseaup
+                    : ENRA → https://soundcloud.com/nvrnvr
+                    : SamuW → https://soundcloud.com/samuw020
+                    : Juan RIOS → https://soundcloud.com/juan-rios-beats
+                    : slowheal → https://soundcloud.com/slowhealmusic
+                    : Kcvee. ☁ → https://soundcloud.com/kevin-kcvee
+                    : mvdb → https://soundcloud.com/mvdbmusic
+                    : Oui Lele → https://soundcloud.com/ouilele
+                    : eugenio izzi 🚬 → https://soundcloud.com/eugenio-izzi
+                    : spencer hunt → https://soundcloud.com/wowspencerhunt
+                    : idealism → https://soundcloud.com/idealismus
+                    : SwuM → https://soundcloud.com/swumbeats
+                    : charlie toØ human → https://soundcloud.com/charlietoohuman
+                    : けｍ SURF → https://soundcloud.com/hmsurf
+                    : ʙʟᴜɴᴛᴏɴᴇ → https://soundcloud.com/bluntone
+                    : Önigirisu → https://soundcloud.com/onigirisu
+                    : ＫｚＺ → https://soundcloud.com/prodkzz
+                    : tapei → https://soundcloud.com/tapei
+                    : Juan RIOS → https://soundcloud.com/juan-rios-beats
+                    : DLJ → https://soundcloud.com/dljbeats
+                    : Kalaido → https://soundcloud.com/kalaidobeats
+                    : Kurt Stewart → https://soundcloud.com/kurtstewartmusic
+                    : whatevr. → https://soundcloud.com/whatevrbeats
+                    : Kayou. → https://soundcloud.com/iamkayouofficial
+                    : 
+                    : 🎨 Artwork by mienar
+                    :  → https://www.instagram.com/_mienar/
+    purl            : https://www.youtube.com/watch?v=_ITiwPMUzho
+    comment         : https://www.youtube.com/watch?v=_ITiwPMUzho
+    artist          : Lofi Ghostie
+    date            : 2020
+  Duration: 01:34:50.18, start: 0.023021, bitrate: 120 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 118 kb/s
+      Metadata:
+        encoder         : Lavc60.31
+  Stream #0:1: Video: png, rgb24(pc, gbr/unknown/unknown), 1280x720, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        title           : Album cover
+        comment         : Cover (front)
+[mp3float @ 0x1d26afc0] Could not update timestamps for skipped samples.
+Input #0, flac, from '/home/adrian/Música/temazos/00 - The Living Tombstone - Discord.flac':
+  Metadata:
+    ALBUM           : Discord
+    album_artist    : The Living Tombstone
+    ALBUM_RELEASE_DATE: 2012-01-21
+    ARTIST          : The Living Tombstone; Eurobeat Brony
+    BPM             : 105
+    COPYRIGHT       : [object Object]
+    DATE            : 2012
+    DISCTOTAL       : 1
+    ISRC            : QZHNB1988493
+    ITUNESADVISORY  : 0
+    REPLAYGAIN_ALBUM_GAIN: NaN dB
+    REPLAYGAIN_TRACK_GAIN: -11.36 dB
+    REPLAYGAIN_TRACK_PEAK: 1
+    TIDAL_ALBUM_ID  : 123187604
+    TIDAL_ALBUM_URL : http://www.tidal.com/album/123187604
+    TIDAL_DATA      : { 
+                    :   "id": 123187605, 
+                    :   "title": "Discord (feat. Eurobeat Brony)", 
+                    :   "version": null, 
+                    :   "isrc": "QZHNB1988493", 
+                    :   "duration": "PT3M14S", 
+                    :   "copyright": { 
+                    :     "text": "The Living Tombstone" 
+                    :   }, 
+                    :   "explicit": false, 
+                    :   "ai": false, 
+                    :   "key": "Ab", 
+                    :   "keyScale": "MINOR", 
+                    :   "bpm": 105, 
+                    :   "popularity": 0.7147208917223618, 
+                    :   "accessType": "PUBLIC", 
+                    :   "availability": [ 
+                    :     "STREAM", 
+                    :     "DJ" 
+                    :   ], 
+                    :   "mediaTags": [ 
+                    :     "LOSSLESS" 
+                    :   ], 
+                    :   "toneTags": [], 
+                    :   "externalLinks": [ 
+                    :     { 
+                    :       "href": "https://tidal.com/browse/track/123187605", 
+                    :       "meta": { 
+                    :         "type": "TIDAL_SHARING" 
+                    :       } 
+                    :     } 
+                    :   ], 
+                    :   "spotlighted": false, 
+                    :   "createdAt": "2019-11-21T16:19:12Z", 
+                    :   "type": "track", 
+                    :   "artists": [ 
+                    :     { 
+                    :       "id": 5916965, 
+                    :       "name": "The Living Tombstone" 
+                    :     } 
+                    :   ], 
+                    :   "artist": { 
+                    :     "id": 5916965, 
+                    :     "name": "The Living Tombstone" 
+                    :   }, 
+                    :   "album": { 
+                    :     "id": 123187604, 
+                    :     "title": "Discord", 
+                    :     "duration": 388, 
+                    :     "streamReady": true, 
+                    :     "payToStream": false, 
+                    :     "adSupportedStreamReady": true, 
+                    :     "djReady": true, 
+                    :     "stemReady": false, 
+                    :     "streamStartDate": "2012-01-21T00:00:00.000+0000", 
+                    :     "allowStreaming": true, 
+                    :     "premiumStreamingOnly": false, 
+                    :     "numberOfTracks": 2, 
+                    :     "numberOfVideos": 0, 
+                    :     "numberOfVolumes": 1, 
+                    :     "releaseDate": "2012-01-21", 
+                    :     "copyright": "The Living Tombstone", 
+                    :     "type": "SINGLE", 
+                    :     "version": null, 
+                    :     "url": "http://www.tidal.com/album/123187604", 
+                    :     "cover": "ed25ed3a-1993-42a0-9e06-19c95907c0f8", 
+                    :     "vibrantColor": "#e3cb3f", 
+                    :     "videoCover": null, 
+                    :     "explicit": false, 
+                    :     "upc": "194937657793", 
+                    :     "popularity": 51, 
+                    :     "audioQuality": "LOSSLESS", 
+                    :     "audioModes": [ 
+                    :       "STEREO" 
+                    :     ], 
+                    :     "mediaMetadata": { 
+                    :       "tags": [ 
+                    :         "LOSSLESS" 
+                    :       ] 
+                    :     }, 
+                    :     "upload": false, 
+                    :     "ai": false, 
+                    :     "artist": { 
+                    :       "id": 5916965, 
+                    :       "name": "The Living Tombstone", 
+                    :       "handle": null, 
+                    :       "type": "MAIN", 
+                    :       "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :     }, 
+                    :     "artists": [ 
+                    :       { 
+                    :         "id": 5916965, 
+                    :         "name": "The Living Tombstone", 
+                    :         "handle": null, 
+                    :         "type": "MAIN", 
+                    :         "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :       } 
+                    :     ], 
+                    :     "items": [ 
+                    :       { 
+                    :         "item": { 
+                    :           "id": 123187605, 
+                    :           "title": "Discord (feat. Eurobeat Brony)", 
+                    :           "duration": 194, 
+                    :           "replayGain": -9.18, 
+                    :           "peak": 1, 
+                    :           "allowStreaming": true, 
+                    :           "streamReady": true, 
+                    :           "payToStream": false, 
+                    :           "adSupportedStreamReady": true, 
+                    :           "djReady": true, 
+                    :           "stemReady": false, 
+                    :           "streamStartDate": "2012-01-21T00:00:00.000+0000", 
+                    :           "premiumStreamingOnly": false, 
+                    :           "trackNumber": 1, 
+                    :           "volumeNumber": 1, 
+                    :           "version": null, 
+                    :           "popularity": 71, 
+                    :           "copyright": "The Living Tombstone", 
+                    :           "bpm": 105, 
+                    :           "key": "Ab", 
+                    :           "keyScale": "MINOR", 
+                    :           "url": "http://www.tidal.com/track/123187605", 
+                    :           "isrc": "QZHNB1988493", 
+                    :           "editable": false, 
+                    :           "explicit": false, 
+                    :           "audioQuality": "LOSSLESS", 
+                    :           "audioModes": [ 
+                    :             "STEREO" 
+                    :           ], 
+                    :           "mediaMetadata": { 
+                    :             "tags": [ 
+                    :               "LOSSLESS" 
+                    :             ] 
+                    :           }, 
+                    :           "upload": false, 
+                    :           "accessType": "PUBLIC", 
+                    :           "spotlighted": false, 
+                    :           "ai": false, 
+                    :           "artist": { 
+                    :             "id": 5916965, 
+                    :             "name": "The Living Tombstone", 
+                    :             "handle": null, 
+                    :             "type": "MAIN", 
+                    :             "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :           }, 
+                    :           "artists": [ 
+                    :             { 
+                    :               "id": 5916965, 
+                    :               "name": "The Living Tombstone", 
+                    :               "handle": null, 
+                    :               "type": "MAIN", 
+                    :               "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :             } 
+                    :           ], 
+                    :           "album": { 
+                    :             "id": 123187604, 
+                    :             "title": "Discord", 
+                    :             "cover": "ed25ed3a-1993-42a0-9e06-19c95907c0f8", 
+                    :             "vibrantColor": "#e3cb3f", 
+                    :             "videoCover": null 
+                    :           }, 
+                    :           "mixes": { 
+                    :             "TRACK_MIX": "00160addebf1985b24525356a8ada9" 
+                    :           } 
+                    :         }, 
+                    :         "type": "track" 
+                    :       }, 
+                    :       { 
+                    :         "item": { 
+                    :           "id": 123187606, 
+                    :           "title": "Discord (feat. Eurobeat Brony) (Instrumental)", 
+                    :           "duration": 194, 
+                    :           "replayGain": -9.18, 
+                    :           "peak": 1, 
+                    :           "allowStreaming": true, 
+                    :           "streamReady": true, 
+                    :           "payToStream": false, 
+                    :           "adSupportedStreamReady": true, 
+                    :           "djReady": true, 
+                    :           "stemReady": false, 
+                    :           "streamStartDate": "2012-01-21T00:00:00.000+0000", 
+                    :           "premiumStreamingOnly": false, 
+                    :           "trackNumber": 2, 
+                    :           "volumeNumber": 1, 
+                    :           "version": null, 
+                    :           "popularity": 33, 
+                    :           "copyright": "The Living Tombstone", 
+                    :           "bpm": 105, 
+                    :           "key": "FSharp", 
+                    :           "keyScale": "MAJOR", 
+                    :           "url": "http://www.tidal.com/track/123187606", 
+                    :           "isrc": "QZHNB1988494", 
+                    :           "editable": false, 
+                    :           "explicit": false, 
+                    :           "audioQuality": "LOSSLESS", 
+                    :           "audioModes": [ 
+                    :             "STEREO" 
+                    :           ], 
+                    :           "mediaMetadata": { 
+                    :             "tags": [ 
+                    :               "LOSSLESS" 
+                    :             ] 
+                    :           }, 
+                    :           "upload": false, 
+                    :           "accessType": "PUBLIC", 
+                    :           "spotlighted": false, 
+                    :           "ai": false, 
+                    :           "artist": { 
+                    :             "id": 5916965, 
+                    :             "name": "The Living Tombstone", 
+                    :             "handle": null, 
+                    :             "type": "MAIN", 
+                    :             "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :           }, 
+                    :           "artists": [ 
+                    :             { 
+                    :               "id": 5916965, 
+                    :               "name": "The Living Tombstone", 
+                    :               "handle": null, 
+                    :               "type": "MAIN", 
+                    :               "picture": "f1a0e05b-3976-4e1e-a9dd-671d652cc70c" 
+                    :             } 
+                    :           ], 
+                    :           "album": { 
+                    :             "id": 123187604, 
+                    :             "title": "Discord", 
+                    :             "cover": "ed25ed3a-1993-42a0-9e06-19c95907c0f8", 
+                    :             "vibrantColor": "#e3cb3f", 
+                    :             "videoCover": null 
+                    :           }, 
+                    :           "mixes": { 
+                    :             "TRACK_MIX": "001124874b302063f5f6a581d74bf7" 
+                    :           } 
+                    :         }, 
+                    :         "type": "track" 
+                    :       } 
+                    :     ], 
+                    :     "totalDiscs": 1 
+                    :   }, 
+                    :   "audioQuality": "LOSSLESS", 
+                    :   "isUnavailable": false, 
+                    :   "amazonMusicQualitySelected": "HD_44", 
+                    :   "amazonMusicQualityDisplay": "FLAC 16/44.1", 
+                    :   "deezerHiResFallback": false, 
+                    :   "replayGain": { 
+                    :     "trackReplayGain": -11.36, 
+                    :     "trackPeakAmplitude": 1 
+                    :   } 
+                    : }
+    TIDAL_TRACK_ID  : 123187605
+    TITLE           : Discord (feat. Eurobeat Brony)
+    TRACKTOTAL      : 2
+    UPC             : 194937657793
+  Duration: 00:03:13.78, start: 0.000000, bitrate: 1031 kb/s
+  Stream #0:0: Audio: flac, 44100 Hz, stereo, s16
+      Side data:
+        replaygain: track gain - -11.360000, track peak - 0.000023, album gain - 0.000000, album peak - unknown, 
+  Stream #0:1: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 1280x1280 [SAR 72:72 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        comment         : Cover (front)
+Error loading cover: '/home/adrian/Música/temazos/cancion.mp3' doesn't start with an ID3 tag
+Error loading cover: '/home/adrian/Música/temazos/CKay - Love Nwantiti ⧸⧸ Sub Español & Lyrics.flac' doesn't start with an ID3 tag

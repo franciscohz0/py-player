@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/file.svg</file>
+        <file>assets/folder.svg</file>
+        <file>assets/quit.svg</file>
+        <file>assets/info.svg</file>
+        <file>assets/player-pause.svg</file>
+        <file>assets/player-play.svg</file>
+        <file>assets/player-skip-back.svg</file>
+        <file>assets/player-skip-forward.svg</file>
+        <file>assets/volume.svg</file>
+        <file>assets/mute.svg</file>
+        <file>assets/default-cover.png</file>
+        <file>assets/icon.png</file>
+    </qresource>
+</RCC>
