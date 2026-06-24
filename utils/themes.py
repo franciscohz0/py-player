@@ -1,6 +1,6 @@
 from PySide6.QtGui import QColor, QPalette
 
-def apply_dark_theme(app):
+def applyDarkTheme(app):
 
     darkPalette = QPalette()
 

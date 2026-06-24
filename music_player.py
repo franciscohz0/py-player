@@ -12,7 +12,7 @@ from player.audio_player import AudioPlayer
 from player.metadata import getMetadata, getCover
 from utils.time_utils import formatTime
 from utils.constants import AUDIO_EXTENSIONS
-from utils.themes import apply_dark_theme
+from utils.themes import applyDarkTheme
 
 
 
@@ -348,7 +348,7 @@ if __name__ == '__main__':
 
     app = QApplication(sys.argv)
     app.setWindowIcon(QIcon(':/assets/icon.png'))
-    apply_dark_theme(app)
+    applyDarkTheme(app)
 
     window = MusicPlayer()
     window.show()
