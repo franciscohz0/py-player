@@ -25,8 +25,6 @@ Instala las dependencias con:
 pip install -r requeriments.txt
 ```
 
-Esta aplicación tambien depende 
-
 ## Uso
 
 ```bash
