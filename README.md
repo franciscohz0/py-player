@@ -29,7 +29,7 @@ pip install -r requeriments.txt
 
 Esta aplicación tambien depende 
 
-## Ejecutar
+## Uso
 
 ```bash
 python music_player.py
@@ -37,4 +37,4 @@ python music_player.py
 
 ## Nota
 
-Proyecto realizado como práctica de Python y desarrollo de interfaces gráficas.
+Proyecto realizado como práctica de Python y desarrollo de interfaces gráficas de escritorio.
